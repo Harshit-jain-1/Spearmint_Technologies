@@ -1,5 +1,3 @@
 fastapi
-mangum
 openai
 requests
-uvicorn
